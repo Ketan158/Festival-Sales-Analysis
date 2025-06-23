@@ -65,3 +65,8 @@ These findings can guide inventory planning, marketing segmentation, and seasona
 - **Notebook Interface**: Jupyter  
 
 ---
+
+**Contact**
+Ketan Vardhan
+kvzw3123@gmail.com
+
