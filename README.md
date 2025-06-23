@@ -66,9 +66,12 @@ These findings can guide inventory planning, marketing segmentation, and seasona
 
 ---
 
-**Contact**
-- Ketan Vardhan
-- ketan [dot] vardhan [at] gmail [dot] com
-- https://github.com/Ketan158?tab=repositories
+
+## Contact
+
+**Ketan Vardhan**  
+📧 Email: [kvzw3123@gmail.com](mailto:kvzw3123@gmail.com)  
+🔗 [GitHub Profile](https://github.com/Ketan158?tab=repositories)
+
   
 
