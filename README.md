@@ -1,4 +1,4 @@
-# Festival-Sales-Analysis
+# Festival-Sales-Analysis: Business Insights from Diwali Data
 Analysis of festival season sales data using Python (pandas, numpy, matplotlib, Seaborn) and Jupyter Notebook
 
 A Jupyter Notebook–based analysis of retail sales data during festive seasons, uncovering geographic and demographic purchasing patterns and translating them into actionable business insights.
