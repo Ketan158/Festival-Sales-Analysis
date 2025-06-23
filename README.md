@@ -67,6 +67,7 @@ These findings can guide inventory planning, marketing segmentation, and seasona
 ---
 
 **Contact**
-Ketan Vardhan
-kvzw3123@gmail.com
+- Ketan Vardhan
+- kvzw3123@gmail.com
+  
 
